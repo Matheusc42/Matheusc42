@@ -25,10 +25,12 @@
 
 <p>Pegue um cafézinho ☕ e fique a vontade para explorar qualquer projeto, ou até mesmo contribuir ^^ <BR>
   E se você quiser entrar em contato comigo por qualquer motivo sinta-se a vontade: </p>
-  <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:matheuscngdfa@gmail.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-c%C3%A2ndido-2b1710176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <div>
+  <a href="https://api.whatsapp.com/send?phone=5511966198743&text=Ol%C3%A1%2C%20assim%20que%20poss%C3%ADvel%20irei%20te%20responder%20%F0%9F%98%81" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.facebook.com/sfc.matheus" target="_blanl"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/matheusc42/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-c%C3%A2ndido-2b1710176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:matheuscngdfa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
